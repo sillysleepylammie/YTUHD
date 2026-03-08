@@ -1,5 +1,5 @@
 name: Build YTUHD
-on:
+on: workflow_dispatch
  push:
    
 concurrency:
